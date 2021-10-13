@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrekj
 - 👀 I’m interested in machine learning, computer vision and embedded systems.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 
 
 
 <!---
